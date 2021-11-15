@@ -1,3 +1,7 @@
 .item__add__form {
   margin-top: 10px;
 }
+
+.item__add__form input {
+  margin-right: 3px;
+}
